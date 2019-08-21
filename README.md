@@ -1,4 +1,4 @@
-* [Checkout demo here](https://sad-kepler-8f1609.netlify.com/)*
+# [Checkout demo here](https://sad-kepler-8f1609.netlify.com/)
 
 
 
