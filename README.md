@@ -1,5 +1,7 @@
 # [Checkout demo here](https://sad-kepler-8f1609.netlify.com/)
 
+[![Build Status](https://badges.netlify.com/api/sad-kepler-8f1609.svg?branch=master)](https://app.netlify.com/sites/sad-kepler-8f1609/deploys)
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
