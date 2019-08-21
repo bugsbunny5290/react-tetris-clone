@@ -1,7 +1,6 @@
 # [Checkout demo here](https://sad-kepler-8f1609.netlify.com/)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6e6e82b5-f4b2-4d39-8912-6806b5a0fe29/deploy-status)](https://app.netlify.com/sites/sad-kepler-8f1609/deploys)
 
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
